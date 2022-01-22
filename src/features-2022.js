@@ -5,3 +5,4 @@ function feature4() { return 'Feature 4 from 2022'; }
 function feature5() { return 'Feature 5 from 2022'; }
 function feature6() { return 'Feature 6 from 2022'; }
 function feature7() { return 'Feature 7 from 2022'; }
+function feature8() { return 'Feature 8 from 2022'; }
