@@ -17,3 +17,4 @@ function feature16() { return 'Feature 16 from 2022'; }
 function feature17() { return 'Feature 17 from 2022'; }
 function feature18() { return 'Feature 18 from 2022'; }
 function feature19() { return 'Feature 19 from 2022'; }
+function feature21() { return 'Feature 21 from 2022'; }
