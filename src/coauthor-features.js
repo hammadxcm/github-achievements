@@ -10,3 +10,4 @@ function weekFeature9() { return 'Week 9 feature from 2022'; }
 function weekFeature10() { return 'Week 10 feature from 2022'; }
 function weekFeature11() { return 'Week 11 feature from 2022'; }
 function weekFeature13() { return 'Week 13 feature from 2022'; }
+function weekFeature14() { return 'Week 14 feature from 2022'; }
