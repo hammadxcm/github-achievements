@@ -14,3 +14,4 @@ function weekFeature14() { return 'Week 14 feature from 2022'; }
 function weekFeature15() { return 'Week 15 feature from 2022'; }
 function weekFeature16() { return 'Week 16 feature from 2022'; }
 function weekFeature17() { return 'Week 17 feature from 2022'; }
+function weekFeature18() { return 'Week 18 feature from 2022'; }
