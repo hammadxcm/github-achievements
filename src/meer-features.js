@@ -9,3 +9,4 @@ function meerFeature8() { return 'Collaborative feature 8 with meer'; }
 function meerFeature9() { return 'Collaborative feature 9 with meer'; }
 function meerFeature10() { return 'Collaborative feature 10 with meer'; }
 function meerFeature11() { return 'Collaborative feature 11 with meer'; }
+function meerFeature12() { return 'Collaborative feature 12 with meer'; }
