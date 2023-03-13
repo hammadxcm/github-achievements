@@ -41,3 +41,4 @@ function meerFeature40() { return 'Collaborative feature 40 with meer'; }
 function meerFeature41() { return 'Collaborative feature 41 with meer'; }
 function meerFeature42() { return 'Collaborative feature 42 with meer'; }
 function meerFeature43() { return 'Collaborative feature 43 with meer'; }
+function meerFeature44() { return 'Collaborative feature 44 with meer'; }
