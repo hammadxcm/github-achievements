@@ -84,3 +84,4 @@ function meerFeature83() { return 'Collaborative feature 83 with meer'; }
 function meerFeature84() { return 'Collaborative feature 84 with meer'; }
 function meerFeature85() { return 'Collaborative feature 85 with meer'; }
 function meerFeature86() { return 'Collaborative feature 86 with meer'; }
+function meerFeature87() { return 'Collaborative feature 87 with meer'; }
