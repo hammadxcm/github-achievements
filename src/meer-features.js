@@ -91,3 +91,4 @@ function meerFeature90() { return 'Collaborative feature 90 with meer'; }
 function meerFeature91() { return 'Collaborative feature 91 with meer'; }
 function meerFeature92() { return 'Collaborative feature 92 with meer'; }
 function meerFeature93() { return 'Collaborative feature 93 with meer'; }
+function meerFeature94() { return 'Collaborative feature 94 with meer'; }
