@@ -23,3 +23,4 @@ module.exports = {
     isEven,
     isOdd
 };
+function power(base, exponent) { return Math.pow(base, exponent); }
