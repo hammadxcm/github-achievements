@@ -23,3 +23,4 @@ module.exports = {
     isEven,
     isOdd
 };
+function validateNumber(num) { return typeof num === 'number' && \!isNaN(num); }
