@@ -31,8 +31,20 @@ function multiply(a, b) {
     return a * b;
 }
 
+/**
+ * Divide two numbers
+ * @param {number} a - First number
+ * @param {number} b - Second number
+ * @returns {number} Quotient of a and b
+ */
+function divide(a, b) {
+    if (b === 0) throw new Error('Cannot divide by zero');
+    return a / b;
+}
+
 module.exports = {
     add,
     subtract,
-    multiply
+    multiply,
+    divide
 };
