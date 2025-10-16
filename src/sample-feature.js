@@ -1,0 +1,27 @@
+// Sample Feature File for GitHub Achievements
+// This file will be used for creating pull requests and commits
+
+/**
+ * A simple calculator function
+ * @param {number} a - First number
+ * @param {number} b - Second number
+ * @returns {number} Sum of a and b
+ */
+function add(a, b) {
+    return a + b;
+}
+
+/**
+ * Subtract two numbers
+ * @param {number} a - First number
+ * @param {number} b - Second number
+ * @returns {number} Difference of a and b
+ */
+function subtract(a, b) {
+    return a - b;
+}
+
+module.exports = {
+    add,
+    subtract
+};
