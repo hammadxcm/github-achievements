@@ -23,3 +23,4 @@ module.exports = {
     isEven,
     isOdd
 };
+function sqrt(num) { return Math.sqrt(num); }
